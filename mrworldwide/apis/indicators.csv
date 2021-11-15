@@ -1,0 +1,47 @@
+Name;ID
+Mortality rate under 5, per 1.000 births;SH.DYN.MORT
+Incidence of tuberculosis per 100.000 people;SH.TBS.INCD
+Population ages 15-49 with HIV(%);SH.DYN.AIDS.ZS
+Life expectancy;SP.DYN.LE00.IN
+Fertility rate(births per woman);SP.DYN.TFRT.IN
+Trade in services(% of GDP);BG.GSR.NFSV.GD.ZS
+Merchandise trade(% of GDP);TG.VAL.TOTL.GD.ZS
+Exports of goods and services($);NE.EXP.GNFS.KD
+Total trade(% of GPD);NE.TRD.GNFS.ZS
+High-technology exports($);TX.VAL.TECH.CD
+Research and development expenditure(% of GPD);GB.XPD.RSDV.GD.ZS
+Exports of goods, services & primary income;BX.GSR.TOTL.CD
+PIB % of industry;NV.IND.TOTL.ZS
+Industry value in $;NV.IND.TOTL.KD
+PIB(GPD);NY.GDP.MKTP.CD
+GNI;NY.GNP.MKTP.CD
+Total reserves;FI.RES.TOTL.CD
+GDP % of Agriculture, forestry and fishing;NV.AGR.TOTL.ZS
+Pump price for gasoline $/L;EP.PMP.SGAS.CD
+Total natural resources rents % of GDP(minerals, oil, natural gas...);NY.GDP.TOTL.RT.ZS
+CO2 emissions (kt);EN.ATM.CO2E.KT
+CO2 emissions from gaseous fuel(% of total);EN.ATM.CO2E.GF.ZS
+Bird species threatened;EN.BIR.THRD.NO
+Plant species threatened;EN.HPT.THRD.NO
+Mammal species thretened;EN.MAM.THRD.NO
+Protected areas(% of total area);ER.PTD.TOTL.ZS
+Agricultural land;AG.LND.AGRI.K2
+Forest area;AG.LND.FRST.K2
+Rural population;SP.RUR.TOTL
+Access to electricity % of population;EG.ELC.ACCS.ZS
+Population density(people/km2);EN.POP.DNST
+Urban population;SP.URB.TOTL
+Urban population grownth(annual %);SP.URB.GROW
+Urban population %(of total);SP.URB.TOTL.IN.ZS
+Percentage of population ages 0-14;SP.POP.0014.TO.ZS
+Percentage of unemployment;SL.UEM.TOTL.ZS
+People employed or seeking work;SL.TLF.TOTL.IN
+Adolescents out of school;SE.SEC.UNER.LO.ZS
+Refugees by country;SM.POP.REFG
+Proportion of seats held by women in national parliaments(%);SG.GEN.PARL.ZS
+Percentage of population using internet;IT.NET.USER.ZS
+Vulnerable employment;SL.EMP.VULN.ZS
+Employment in service(% of total);SL.SRV.EMPL.ZS
+Percentage of unemployment;SL.UEM.TOTL.ZS
+Population;SP.POP.TOTL
+Population growth(annual %);SP.POP.GROW
